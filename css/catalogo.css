@@ -1,10 +1,17 @@
+ 
+
 body {
-  background-color: #3687BD;
+
   height: 100%;
   margin: 0;
-  /* display: flex;
+  display: flex;
+  justify-content: center;
   align-items: center;
-  justify-content: center; */
+  min-height: 82vh;
+  background-image: url(../imagens/vimal-s-m4mdxKUBM58-unsplash.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 
 .container {
