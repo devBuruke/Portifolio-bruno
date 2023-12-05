@@ -243,7 +243,8 @@ section.sobre .img-sobre img {
 
 
 .sobre .txt-sobre {
-    color: #fff;
+    
+    color: #000000;
 
 }
 
@@ -437,12 +438,12 @@ footer .line-footer p a {
 
     /* topo do site */
     .topo-do-site h1 {
-        font-size: 25px;
+        font-size: 21px;
 
     }
 
     section.topo-do-site {
-        padding: 20px 8%;
+        padding: 20px 7%;
     }
 
     .topo-do-site .img_topo_site img {
