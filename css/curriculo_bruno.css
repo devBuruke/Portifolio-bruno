@@ -258,11 +258,18 @@ section.sobre .img-sobre img {
     color: #214B5E;
     display: block;
 
-}
+} 
 
 .sobre .txt-sobre p {
     margin: 20px 0;
     text-align: justify;
+    transition: .5s;
+
+}
+
+.sobre .txt-sobre p:hover{
+transform: scale(1.02);
+font-weight: bold;
 }
 
 .btn-social button {
